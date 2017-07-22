@@ -1,0 +1,11 @@
+D:\Veridic Company Task\FileDownloaderUtility\FileDownloaderUtility\bin\Debug\FileDownloaderUtility.exe.config
+D:\Veridic Company Task\FileDownloaderUtility\FileDownloaderUtility\bin\Debug\FileDownloaderUtility.exe
+D:\Veridic Company Task\FileDownloaderUtility\FileDownloaderUtility\bin\Debug\FileDownloaderUtility.pdb
+D:\Veridic Company Task\FileDownloaderUtility\FileDownloaderUtility\obj\Debug\FileDownloaderUtility.csprojResolveAssemblyReference.cache
+D:\Veridic Company Task\FileDownloaderUtility\FileDownloaderUtility\obj\Debug\FileDownloaderUtility.Properties.Resources.resources
+D:\Veridic Company Task\FileDownloaderUtility\FileDownloaderUtility\obj\Debug\FileDownloaderUtility.csproj.GenerateResource.Cache
+D:\Veridic Company Task\FileDownloaderUtility\FileDownloaderUtility\obj\Debug\FileDownloaderUtility.exe
+D:\Veridic Company Task\FileDownloaderUtility\FileDownloaderUtility\obj\Debug\FileDownloaderUtility.pdb
+D:\Veridic Company Task\FileDownloaderUtility\FileDownloaderUtility\obj\Debug\FileDownloaderUtility.frmAbout.resources
+D:\Veridic Company Task\FileDownloaderUtility\FileDownloaderUtility\obj\Debug\FileDownloaderUtility.frmSettings.resources
+D:\Veridic Company Task\FileDownloaderUtility\FileDownloaderUtility\obj\Debug\FileDownloaderUtility.Main.resources
